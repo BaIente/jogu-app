@@ -1,0 +1,18 @@
+{
+  "name": "JOGU — Never play one short",
+  "short_name": "JOGU",
+  "description": "Manca un giocatore? JOGU. La rete che completa le partite di calcio amatoriale.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#050810",
+  "theme_color": "#050810",
+  "lang": "it",
+  "dir": "ltr",
+  "categories": ["sports", "social", "lifestyle"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
